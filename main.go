@@ -494,7 +494,7 @@ func isOrgMember(ctx context.Context, client *github.Client, username, org strin
 	}
 	member, _, err := client.Organizations.IsMember(ctx, org, username)
 	if err != nil {
-		fmt.Println("Error during membership check:", err)
+		fmt.Fprintln(os.Stderr, "Error during membership check:", err)
 		return false, err
 	}
 	cache[username] = member
@@ -540,7 +540,7 @@ func findAllFloxManifestRepos(ctx context.Context, client *github.Client, showFu
 					if !showFull {
 						isMember, e := isOrgMember(ctx, client, parts[3], "flox", membershipCache)
 						if e != nil {
-							fmt.Printf("Error checking membership: %v\n", e)
+							fmt.Fprintf(os.Stderr, "Error checking membership: %v\n", e)
 						}
 						if isMember {
 							continue
@@ -623,7 +623,7 @@ func findAllFloxReadmeRepos(ctx context.Context, client *github.Client, showFull
 				if !showFull {
 					isMember, err := isOrgMember(ctx, client, *item.Repository.Owner.Login, "flox", membershipCache)
 					if err != nil {
-						fmt.Printf("Error checking membership: %v\n", err)
+						fmt.Fprintf(os.Stderr, "Error checking membership: %v\n", err)
 						continue
 					}
 					if isMember {
