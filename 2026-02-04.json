@@ -1,0 +1,2966 @@
+Error during membership check: GET https://api.github.com/organizations/72631827/public_members/meowchao: 502  []
+Error checking membership: GET https://api.github.com/organizations/72631827/public_members/meowchao: 502  []
+Error during membership check: GET https://api.github.com/orgs/flox/members/Azeezzion: 502  []
+Error checking membership: GET https://api.github.com/orgs/flox/members/Azeezzion: 502  []
+Error during membership check: GET https://api.github.com/organizations/72631827/public_members/Unity-Billal-mesloub: 502  []
+Error checking membership: GET https://api.github.com/organizations/72631827/public_members/Unity-Billal-mesloub: 502  []
+[
+  {
+    "date": "2026-Feb-04",
+    "repository": "2k4sm/code",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "8BitTacoSupreme/flinkenstein",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "9diov/flashfill",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "9diov/rss-fuse",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "AlphaSphereDotAI/disease_assistant",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Baughn/sd-bot",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Blanco142/Media-database",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Blu-J/ts-matches",
+    "type": "dotflox",
+    "starcount": 11
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ByteSliceHQ/byteslice",
+    "type": "dotflox",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ByteSliceHQ/deepdish",
+    "type": "dotflox",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Comamoca/sandbox",
+    "type": "dotflox",
+    "starcount": 7
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Compile-Time/yt-quick-actions",
+    "type": "dotflox",
+    "starcount": 12
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "CookieUzen/bloomfield",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Death916/deathsite",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "DialInGames/partykit-protocol",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "EGI-Federation/documentation",
+    "type": "dotflox",
+    "starcount": 14
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Foroughi/tg-edit",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Granola-Team/infra",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Granola-Team/mina-block-explorer",
+    "type": "dotflox",
+    "starcount": 9
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Hamm1/flexapp",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Hamm1/smdc_portal",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "HashWarlock/SecureSnippet",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "HashWarlock/the-accountant",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "HuaDeity/dotfiles",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "HuaDeity/pkgflow",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "JuiceMitApfelnDrin/CodinCod",
+    "type": "dotflox",
+    "starcount": 8
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "KordonDev/equipment-watchdog",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Kurt108/clone-database-script",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "MDaniel592/fuelup",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Nereuxofficial/arm-benchmarking",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Nereuxofficial/bene-snake",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Nereuxofficial/benemalloc",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Nereuxofficial/fresh-portfolio",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "NixVegas/nix.vegas",
+    "type": "dotflox",
+    "starcount": 5
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "PierreBeucher/cloudypad.gg",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Piinary/EventHub",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "PostHog/ops-platform",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "PostHog/posthog",
+    "type": "dotflox",
+    "starcount": 31085
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "PostHog/posthog-foss",
+    "type": "dotflox",
+    "starcount": 447
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "RedbackThomson/homelab-k3s",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "RichardAlmanza/learning-stuff",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Rythnyx/dotfiles",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "TheWizardTower/tilt-lgtm-bootstrap",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ThomasVitale/developer-experience-java-kubernetes",
+    "type": "dotflox",
+    "starcount": 78
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ThomasVitale/spring-ai-multiple-beans-demo",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "UnFergettable-Designs/LocalHavenCMS-Site",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "VinceDeslo/flox-demo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "a-bouts/drone",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "abhinavreddy1611/aaaimp",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "adhipk/hacknight-song-recs",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ai-code-review-benchmarks/coderabbit-posthog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ai-code-review-benchmarks/copilot-posthog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ai-code-review-benchmarks/cursor-posthog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ai-code-review-benchmarks/greptile-posthog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ai-code-review-benchmarks/greptile-v3-posthog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "aither-computer/aither-sdk",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "alloydwhitlock/huey",
+    "type": "dotflox",
+    "starcount": 17
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "alloydwhitlock/whitlock.dev",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "andoniaf/geoguessr-daily-tracker",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "andrephilipsson/Accessible-Datepicker",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ankur198/spring-boot-redis-test",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "anttiharju/fullstackopen",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "anttiharju/homelab",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "aonyx-ai/.github",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "aonyx-ai/clawless",
+    "type": "dotflox",
+    "starcount": 6
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "apenney/netsuite-proxy",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "apenney/osm-ansible",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "appdevforall/CodeOnTheGo",
+    "type": "dotflox",
+    "starcount": 78
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "aronchick/bubble-tea-experiment",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "aronchick/cosmosdb-dash",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "aronchick/floxminimumrepro",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "atmask/atmask.github.io",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "atteggiani/wedding-website",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "averms/.files",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bacalhau-project/examples",
+    "type": "dotflox",
+    "starcount": 27
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bakseter/mandagsmiddag",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/agentic-development-with-flox",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/cowsay",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/dawdiolab",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/flox-md",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/floxenvs",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/sox-dsd",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bastienpo/bastienpo.github.io",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bastienpo/fastagent",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "behavure/behavure-docs",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "billlevine/flox-bash-example",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bkietz/maud",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bmorphism/bafishka",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bmorphism/ocaml-mcp-sdk",
+    "type": "dotflox",
+    "starcount": 59
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bmorphism/yoyo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "booxter/letsrolld",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "boring91/posthog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "calydia/a11ying-payload",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cardozQ/Foss_Flox",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cardozQ/carOs_addons",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "chrisaddy/chrysostom",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "chrisaddy/dotfiles",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "chrisaddy/dots",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "chrisaddy/resume",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cipherstash/demo-sydjs-oct-2025",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cipherstash/protectjs",
+    "type": "dotflox",
+    "starcount": 134
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "colliery-io/plissken",
+    "type": "dotflox",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/cookie.sh.2",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/doguda",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/general-airflow-dags",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/hatchet-ingtranet",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/naraninyeo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/pangshon",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/pixoontoo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/public-doguda",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/santoki-fm",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/santokit",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/tpr-nriy",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cookieshake/tulipee",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "daisy/ace",
+    "type": "dotflox",
+    "starcount": 92
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "daisy/ace-gui",
+    "type": "dotflox",
+    "starcount": 20
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "damroth/raiden",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "davimmt/dotfiles",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "dcarley/dan.carley.co",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "dcarley/dotfiles",
+    "type": "dotflox",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devex-on-k8s/book",
+    "type": "dotflox",
+    "starcount": 6
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devusb/dnscomp",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devusb/hello",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devusb/ncps-deploy",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devusb/tf-cdk-example",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devusb/wolweb-cli",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "dianedef/GoCharbon",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "djsauble/test-custom-package",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "djstreat/djinni-blog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "dmgress/dmgress.github.io",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "doitintl/easyeks",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "dokokitsune/TS-Next-Portfolio",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edenreich/n8n-cli",
+    "type": "dotflox",
+    "starcount": 15
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edenreich/ollama-kubernetes",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edenreich/openweb-ui-kubernetes",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edger-dev/hub",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/r2-lcp-js",
+    "type": "dotflox",
+    "starcount": 9
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/r2-navigator-js",
+    "type": "dotflox",
+    "starcount": 8
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/r2-opds-js",
+    "type": "dotflox",
+    "starcount": 8
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/r2-shared-js",
+    "type": "dotflox",
+    "starcount": 11
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/r2-streamer-js",
+    "type": "dotflox",
+    "starcount": 24
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/r2-utils-js",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "edrlab/thorium-reader",
+    "type": "dotflox",
+    "starcount": 2560
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "emacha/flox-env",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ericscheier/barrier-kvm-setup",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "fellowapp/deploy-tools",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "fellowapp/n8n-nodes-fellow",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "fellowapp/traefik-cluster-ratelimit",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "finos/architecture-as-code",
+    "type": "dotflox",
+    "starcount": 262
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "five-vee/byodb-rust",
+    "type": "dotflox",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "five-vee/db-cmp",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "five-vee/go-disruptor",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "fluentci-io/fluentci-engine",
+    "type": "dotflox",
+    "starcount": 107
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "fmway/me",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "fungsi1984/flox-wpstack",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "genebean/floxified-bits",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "gpwclark/watcher",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "gruggiero/Adk4s",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "guerinoni/exercises",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "guimorg/dot-files",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "hal-eisen/workflow-actions-test",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "hhao99/reblog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/a2a-debugger",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/adk",
+    "type": "dotflox",
+    "starcount": 18
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/adl-cli",
+    "type": "dotflox",
+    "starcount": 7
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/browser-agent",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/cli",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/docs",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/documentation-agent",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/google-calendar-agent",
+    "type": "dotflox",
+    "starcount": 12
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/grafana-agent",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/inference-gateway",
+    "type": "dotflox",
+    "starcount": 96
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/mock-agent",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/n8n-agent",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/registry",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/rust-sdk",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/schemas",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/sdk",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/tools",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "inference-gateway/typescript-sdk",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ipfs-force-community/damocles",
+    "type": "dotflox",
+    "starcount": 21
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "j4ger/mo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jdno/labelflair",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jdno/typed-fields",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/b28",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/baml-mcp-01",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/baml-py-hello",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/flox-hello",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/garden-planner",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/hey-forest",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/mc-enchant-guide",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/my-little-soda",
+    "type": "dotflox",
+    "starcount": 10
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/my-little-soda-test-project",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/obsidian-knowledge-base",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/resume-tweaker",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/sf_businesses",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "johnhkchen/tile-cutter",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonocodes/blog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonocodes/flox-conda-test",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonocodes/savr",
+    "type": "dotflox",
+    "starcount": 108
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonocodes/sfcarpool",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonpackard/flox-flaim-experiments",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonstacks/flox-devenv",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonstacks/ilo",
+    "type": "dotflox",
+    "starcount": 5
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonstacks/jupyterhub-kubernetes-backup",
+    "type": "dotflox",
+    "starcount": 6
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jonstacks/pg-dba",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "joseph-redmond/OpenAI-Spring-Helper",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "joseph-redmond/TaskManager",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "joshleecreates/my-website",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "joshleecreates/nix-config",
+    "type": "dotflox",
+    "starcount": 7
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "joshleecreates/nixos-proxmox",
+    "type": "dotflox",
+    "starcount": 17
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jyanko/flox-playground",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kartverket/accesserator",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kartverket/token-proxy",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kartverket/ztoperator",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kasuboski/butler-agent",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kasuboski/hal",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kasuboski/llmgateway",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kasuboski/openai-gateway",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kovacsl/aws-poc",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kylediaz/kv",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "levinotik/axum-httpbin",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "limeytexan/demo-project",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "limeytexan/makedot",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "limeytexan/mypkgs",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markcipolla/cockatoo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markcipolla/markcipolla.com",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markcipolla/markturnsforty.party",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/crossplane-argo-demo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/home-cluster",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/kueue_example",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/minimalist-web-hugo-theme",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/personal_website",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/pico_templ",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "markopolo123/slacker",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "martinmose/agentlink",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "martinmose/aoc-2025",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "martinmose/llm-slides",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "matclab/ontoblogie.clabaut.net",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "maxgallup/envshield",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "maxgallup/tree-sitter-clispec",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "maxgitnet/dotfiles",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "mcolyer/file-upload",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "mcolyer/home-assistant-compool",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "mdomke/schwifty",
+    "type": "dotflox",
+    "starcount": 247
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "mfairley/pants-debug",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "mkenigs/pkgs",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/PureScript-For-JavaScript-Developers-A-Supplementary-Guide",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/extend-react-with-rescript",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/magnoliacoasts",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/nathantranquilla.me",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/next-gen-web-dev-experiments",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/rescript-benchmarks",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nathan-tranquilla/rescript-derive-builder",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nicklewis/dosgames",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nicklewis/py-build-example",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nickmonad/blog",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nikivdev/flox-test",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nikivdev/nix",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nikivdev/py-utils",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "noor-latif/rag-api-imageless",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/cabane-jardin",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/docker-rke2-cluster",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/fleet",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/flox-shared-environments",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/incus-headscale",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/k8s-home",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/nix-darwin-home",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/rke2lab",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "olekenneth/key-api",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "openfresque/frontend",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "openfresque/trouver-une-fresque-proxy",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "openfresque/trouver-une-fresque-scraper",
+    "type": "dotflox",
+    "starcount": 16
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "oscmcompany/fund",
+    "type": "dotflox",
+    "starcount": 20
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "oss-review-toolkit/ort",
+    "type": "dotflox",
+    "starcount": 1919
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "parrotmac/disco",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "parrotmac/tonic-example",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "partrita/flox-python-uv",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "partrita/learn_textual",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "phuquiivo03/nearstack",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "planetnix/website",
+    "type": "dotflox",
+    "starcount": 5
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "plurigrid/asi",
+    "type": "dotflox",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rainerborene/dotfiles",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rawkode/cue-talos",
+    "type": "dotflox",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "reimeri/solorpg",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "revity-group/revity-agentic-dev-framework-app",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rjhoffmann/rjhoff-dev",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "roalcantara/dots",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rodfersou/rfs-babilony-sqrt",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rohitium/Activate-Hackathon-2025",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/claude-cli",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/floxenvs",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/github_traffic_grabber",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/neovim-copilot",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/sdxl-notebooks",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/sox-dsd",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rossturk/towebp",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rowlando/wc",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rtodea/angular-on-spring-boot",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "saada/.dotfiles",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sagebind/dotfiles",
+    "type": "dotflox",
+    "starcount": 16
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sciyoshi/floxdemo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "segment-integrations/templates",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "seripap/yoto-backup",
+    "type": "dotflox",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "snorkel-marlin-repos/PostHog_posthog_pr_38219_39f3da1d-0d7c-410e-8f9e-c11c2deea8d3",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "snorkel-marlin-repos/PostHog_posthog_pr_38255_35f75b34-2f2c-49d9-9a1f-cc00b4037327",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "snorkel-marlin-repos/PostHog_posthog_pr_38255_b7452ce1-719d-426f-8953-681786fa9e11",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "snorkel-marlin-repos/PostHog_posthog_pr_38476_78ad795a-3771-43f9-804d-ab76db5a665c",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "snorkel-marlin-repos/PostHog_posthog_pr_38476_7aeea18d-ccac-43df-8181-951a7227d9fa",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/gh-flox",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/hubot-http-routes",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/hubot-slacklogs",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/kittentime-flox-package-example",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/mandatoryFun",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/noodles",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/quotes-app",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/quotes-app-rb",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/rubyish",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/spotifyquery",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/toot-client",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/updateHUD",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stealthybox/scale-nix-gitops",
+    "type": "dotflox",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "steve-mt/dotfiles",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "t0rx/devenv",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "techcloud0-playground/pre-commit-hooks",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "teich/aac-dash",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "theothertomelliott/floxexp",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "thepacer/pacer-archives-scripts",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "tjololo/nats-demo",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "transitnownash/gtfs-rails-api",
+    "type": "dotflox",
+    "starcount": 7
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "v1truv1us/unFergettable2018",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "vrnvu/java-no-spring",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "vrnvu/java-todo-list",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "vrnvu/oscar",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "vrnvu/python-oscar",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "vrnvu/rust-dns",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "vrnvu/rust-minikeyvalue",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "willgorman/libiscsi-go",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "yeargin/yeargin-hubot",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "yuswitayudi/learning-python",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "zzztimbo/myproject",
+    "type": "dotflox",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Aldi0705/Devop_YTTA_Ecommerce",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Andrezinhos/Mosaiq",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "AxelKrantz/AoC",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Azure-Gforce/cli-cli",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "BurntSushi/ripgrep",
+    "type": "readme",
+    "starcount": 59518
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "BurntSushi/ripgrep-release-test",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ChanwooCho/llama.cpp-all-in-one",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ChanwooCho/llama.cpp_load_balancing",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ChanwooCho/llama.cpp_load_balancing_head_pruning",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ChanwooCho/llama.cpp_only_affinity_no_load_balancing",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "EspenTeigen/dotfiles",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Flying-Cloud/kt-llama.cpp",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "GermanShubaev/Kavkazim",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "HagonChan/EnvPilot",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "HamzaBenalia/MSPR4_APP_Serverless",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "J-SUPHA/llama.cpp",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Jamie1225/checkout-34745-J1",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "KIB-in-Batch/pkg",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "KIB-in-Batch/pkg",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "KL-2300032590/2025-2026-ODD-SEM",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "KeenanKunzelman/htb_data",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Max2535/team-stack-gitops",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Metadrama/tercet",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "MichaelLu0220/ScanLogs",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "OpenAiTx/OpenAiTx",
+    "type": "readme",
+    "starcount": 189
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Punkin-Anarcrassy/Main.Org",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Punkin-Anarcrassy/probable-invention",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Punkin-Anarcrassy/redesigned-rotary-phone",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Punkin-Anarcrassy/studious-funicular",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "S-Seipel/MyNvim",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "SRv6d/hanko",
+    "type": "readme",
+    "starcount": 6
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Sergio7DAW/Entorno_Escenarios_UD3",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ShaharyarShakir/devcraft-project-manager",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Shinplex/rovore",
+    "type": "readme",
+    "starcount": 10
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ThomasVitale/arconia-cli-flake",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Tianzhengshuyuan/llamacpp_with_annotation",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Unity-Billal-mesloub/hyperfine.",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Vaishnav-Sabari-Girish/arduino-cli-interactive",
+    "type": "readme",
+    "starcount": 35
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "VinceDeslo/flox-demo",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "Y2Z/monolith",
+    "type": "readme",
+    "starcount": 14704
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ZhusunXiao/ql",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "a0901171705-gmail-com/a0901171705",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "a0901171705-gmail-com/automatic-meme",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "a0901171705-gmail-com/congenial-spork",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "a0901171705-gmail-com/laughing-train",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ahmed-alseidy/graduation-project",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "albilu/fast-search",
+    "type": "readme",
+    "starcount": 5
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "albilu/fast-search",
+    "type": "readme",
+    "starcount": 5
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "andyfeller/cli",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "arjunmaganti/github-helperbot",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "arjunmaganti/github-helperbot",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "badhezi/helm",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/agentic-development-with-flox",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/agentic-development-with-flox",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/agentic-development-with-flox",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/floxenvs",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/floxenvs",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/floxenvs",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "barstoolbluz/sox-dsd",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "bmwall94/BenSec",
+    "type": "readme",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "brookcs3/aiGn-cli",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "cardozQ/Foss_Flox",
+    "type": "readme",
+    "starcount": 3
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "charmbracelet/gum",
+    "type": "readme",
+    "starcount": 22491
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "codemanticism/micro-copy",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "damroth/raiden",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "danilaverbytskyy/uni",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "darco-ctrl/FileManager",
+    "type": "readme",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "desinler-21/Sendegel",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "devexpert1234/soimort",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "donggcao18/tessera",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ducaale/xh",
+    "type": "readme",
+    "starcount": 7537
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "etorreborre/rust-edits",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "garbas/dotfiles",
+    "type": "readme",
+    "starcount": 59
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "helm/helm",
+    "type": "readme",
+    "starcount": 29376
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "helton-godoy/shantilly-old-melhor-2",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "hengshan/dotfiles",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jesseduffield/lazygit",
+    "type": "readme",
+    "starcount": 71608
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jialunzhang-psu/SandCell-Artifact",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jialunzhang-psu/SandCell-Artifact",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jialunzhang-psu/SandCell-Artifact",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jianchao768/NvimLua",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "joshualinog/nothintoitrepairs.com",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jrbalsas/asnwebapps",
+    "type": "readme",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "jyanko/flox-playground",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kaisenlinux/lazygit",
+    "type": "readme",
+    "starcount": 5
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kaisenlinux/yq",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "kcowolf/rg-gui-depends",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "keith-hall/bat",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "koalaman/shellcheck",
+    "type": "readme",
+    "starcount": 38932
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "limijd/nvim-pro-kit",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "limijd/nvim-pro-kit",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "lmu-plai/buggy-ripgrep",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "metaory/theschain",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "micro-editor/micro",
+    "type": "readme",
+    "starcount": 27862
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "mikefarah/yq",
+    "type": "readme",
+    "starcount": 14817
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nandhakumar12/aws-ecommerce-k8s",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nguyenmanhdung23020520/K8Scloud",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nguyenmanhdung23020520/monitoring",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nicklewis/py-build-example",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nomadyve/mybin",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/rke2lab",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "nxmatic/rke2lab",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "oimiragieo/agent-studio",
+    "type": "readme",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "orf/gping",
+    "type": "readme",
+    "starcount": 12306
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "peteryzhang518/myLinuxConfig",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "phantasea/dotfiles",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "phredogee/gridiron_gpt",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "pl643/dotfiles",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "plurigrid/asi",
+    "type": "readme",
+    "starcount": 4
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "r3l1c7/cli",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "raycast/ripgrep",
+    "type": "readme",
+    "starcount": 14
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "rdaultonGT/CSONAR_GITHUB",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "reachsak/Vision_Language_Model-construction-safety-and-progress-monitoring",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "remixed123/llama.cpp",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sakomws/ai-workshop",
+    "type": "readme",
+    "starcount": 12
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "schollz/asdf",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "schollz/micro",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sharkdp/bat",
+    "type": "readme",
+    "starcount": 56955
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sharkdp/fd",
+    "type": "readme",
+    "starcount": 41450
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sharkdp/hyperfine",
+    "type": "readme",
+    "starcount": 27409
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sheeeng/azure-cli-with-extensions",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "soimort/you-get",
+    "type": "readme",
+    "starcount": 56722
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "sqlitebrowser/sqlitebrowser",
+    "type": "readme",
+    "starcount": 23583
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/gh-flox",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stahnma/kittentime-flox-package-example",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "stealthybox/scale-nix-gitops",
+    "type": "readme",
+    "starcount": 2
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "tummychow/git-absorb",
+    "type": "readme",
+    "starcount": 5378
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "tweag/codeql-wrapper-pipelines",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "twhite96/lazygit-docs",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "ws8462/llama.cpp_only_affinity_no_load_balancing_rmec_32_8",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "wscoble/grafana-nix",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "wscoble/grafana-nix",
+    "type": "readme",
+    "starcount": 0
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "yzqdev/rust-proj",
+    "type": "readme",
+    "starcount": 1
+  },
+  {
+    "date": "2026-Feb-04",
+    "repository": "zeeshanarshad44/learning-samples",
+    "type": "readme",
+    "starcount": 0
+  }
+]
