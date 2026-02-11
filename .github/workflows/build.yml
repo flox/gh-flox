@@ -16,3 +16,8 @@ jobs:
 
       - name: Build
         run: flox activate -- make local
+
+      - name: Test export produces valid JSON
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUBLIC_REPOS_GITHUB_TOKEN }}
+        run: flox activate -- ./gh-flox export | jq . > /dev/null
