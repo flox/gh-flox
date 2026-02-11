@@ -12,6 +12,7 @@ awscli2.pkg-path = "awscli2"
 gnumake.pkg-path = "gnumake"
 go.pkg-path = "go"
 golint.pkg-path = "golint"
+gcc.pkg-path = "gcc"
 
 
 # Set environment variables in the `[vars]` section.  These variables may not
@@ -62,4 +63,4 @@ common = """
 # of system, but other systems may not have the same packages available, etc.
 # In order to use the environment on a system you must explicitly add it to the
 # `options.systems` list.
-systems = ["aarch64-darwin"]
+systems = ["aarch64-darwin", "x86_64-linux"]
